@@ -1,7 +1,9 @@
 Copyright (c) 2024, ECOLS - All rights reserved.
 
 Paper: Kumar, N. et al., "Fijian Traffic Sign Dataset: A New Collection for Image Recognition and Benchmarking," in 2024 International Conference on Neural Information Processing (ICONIP), 2024.
-Programmers and Data Collectors: Nikhil Kumar, Krishan Lal, and Geeta Singh. 
+
+Programmers and Data Collectors: Nikhil Kumar, Krishan Lal, and Geeta Singh.
+
 Supervisor: Dr. Anuraganand Sharma
 
 Augmnetation.py makes synthetic images from images that the user provides.
