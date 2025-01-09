@@ -13,3 +13,5 @@ Motionblur.py applies a motion effect to the images mimicing speed depending on 
 
 Finalcode.py is the code with the model in it. It uses the dataset and CSV files provided to train the model, output ROC curves and a CSV file which contains the metrics for the models performance. At the end it will save a trained model. 
 Dropbox Link for Dataset: https://www.dropbox.com/scl/fo/4fy0hfiu71qw3ig6c2whx/AEKsorsXWAlOYzViyGXB1as?rlkey=ywgvo2seic7wluw2x7h2j9yla&st=rosn9whf&dl=0 
+
+This repository is also known as https://github.com/ECOLS-research-group/FTSD-Image-Recognition-and-Benchmarking-using-CNN
